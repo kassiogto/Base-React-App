@@ -1,0 +1,9 @@
+{
+  "default": "Holder Invest",
+  "pageNotFound": "Página Não Encontrada | $t(default)",
+  "forgotPassword": "Esqueci Minha Senha | $t(default)",
+  "login": "Entre em Sua Conta | $t(default)",
+  "resetPassword": "Alterar Senha de Acesso | $t(default)",
+  "Menu": "Menu | $t(default)",
+  "pageInDevelopment": "Página Em Desenvolvimento | $t(default)"
+}

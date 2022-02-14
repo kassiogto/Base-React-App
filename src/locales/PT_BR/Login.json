@@ -1,0 +1,9 @@
+{
+  "loginButton": "Entrar",
+  "logoAlt": "Logo do UNC Dashboard",
+  "forgotPassword": "Esqueceu sua senha?",
+  "emailLabel": "Email da sua conta",
+  "emailPh": "Ex: exemplo@exemplo.com",
+  "passwordLabel": "Senha da conta",
+  "passwordPh": "******"
+}

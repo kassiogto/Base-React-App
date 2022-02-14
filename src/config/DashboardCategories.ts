@@ -1,0 +1,6 @@
+export enum DASHBOARD_CATEGORIES {
+  GENERAL = '001',
+  SALES = '002',
+  FINANCIAL = '003',
+  PRODUCTION = '004',
+}

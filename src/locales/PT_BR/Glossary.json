@@ -1,0 +1,17 @@
+{
+  "gotIt": "Entendi",
+  "required": "Obrigatório",
+  "leave": "Sair",
+  "cancel": "Cancelar",
+  "ok": "Ok",
+  "loading": "Carregando...",
+  "value": "Valor",
+  "delete": "Apagar",
+  "optional": "Opcional",
+  "active": "Ativo",
+  "inactive": "Inativo",
+  "activate": "Ativar",
+  "deactivate": "Inativar",
+  "sequence": "Sequência {{sequence}}",
+  "moreDetails": "Mais Detalhes"
+}

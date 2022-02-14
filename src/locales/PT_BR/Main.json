@@ -1,0 +1,12 @@
+{
+  "logoutButton": "Sair da Conta",
+  "logoutConfirmationTitle": "Sair da Sua Conta",
+  "logoutConfirmationMessage": "Tem certeza que deseja sair da sua conta?",
+  "drawer": {
+    "Home": "Home"
+  },
+  "labels": {
+    "general": "Geral",
+    "configs": "Configurações"
+  }
+}
